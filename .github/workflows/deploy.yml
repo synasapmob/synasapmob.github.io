@@ -21,7 +21,9 @@ jobs:
       - run: bun install
       - run: bun run build
 
-      - uses: actions/upload-pages-artifact@v3
+      - name: Upload static files as artifact
+        id: artifact_files
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./dist
 
@@ -29,10 +31,15 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
 
+    permissions:
+      pages: write
+      id-token: write
+
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-      - id: deployment
+      - name: Deploy to GitHub Pages
+        id: artifact_files
         uses: actions/deploy-pages@v4
