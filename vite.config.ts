@@ -34,5 +34,7 @@ export default () => {
         exclude: "**/*.svg?*url*",
       }),
     ],
+
+    base: "/synasapmob.github.io",
   });
 };
