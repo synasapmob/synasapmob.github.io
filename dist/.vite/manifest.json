@@ -1,0 +1,22 @@
+{
+  "_client-DFkHYRIX.js": {
+    "file": "assets/client-DFkHYRIX.js",
+    "name": "client",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "index.html": {
+    "file": "assets/app-D8CMrMb0.js",
+    "name": "app",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "_client-DFkHYRIX.js"
+    ],
+    "css": [
+      "assets/app-BmAVGTu2.css"
+    ]
+  }
+}
