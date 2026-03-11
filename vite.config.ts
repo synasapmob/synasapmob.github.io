@@ -36,5 +36,8 @@ export default () => {
     ],
 
     base: "/synasapmob.github.io",
+    build: {
+      outDir: "docs",
+    },
   });
 };

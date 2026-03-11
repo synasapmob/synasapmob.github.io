@@ -1,6 +1,6 @@
 {
-  "_client-DFkHYRIX.js": {
-    "file": "assets/client-DFkHYRIX.js",
+  "_client-S-wPj2wd.js": {
+    "file": "assets/client-S-wPj2wd.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -8,15 +8,15 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-D8CMrMb0.js",
+    "file": "assets/app-YsBy1W2q.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-DFkHYRIX.js"
+      "_client-S-wPj2wd.js"
     ],
     "css": [
-      "assets/app-BmAVGTu2.css"
+      "assets/app-DIMM414C.css"
     ]
   }
 }
