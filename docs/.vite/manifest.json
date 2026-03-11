@@ -17,6 +17,23 @@
     ],
     "css": [
       "assets/app-DIMM414C.css"
+    ],
+    "assets": [
+      "assets/favicon-fANlyB8T.ico",
+      "assets/logo192-Cw5HMvxU.png",
+      "assets/manifest-DaXQ4ovf.json"
     ]
+  },
+  "public/favicon.ico": {
+    "file": "assets/favicon-fANlyB8T.ico",
+    "src": "public/favicon.ico"
+  },
+  "public/logo192.png": {
+    "file": "assets/logo192-Cw5HMvxU.png",
+    "src": "public/logo192.png"
+  },
+  "public/manifest.json": {
+    "file": "assets/manifest-DaXQ4ovf.json",
+    "src": "public/manifest.json"
   }
 }

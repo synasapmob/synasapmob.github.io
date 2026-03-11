@@ -1,45 +1,181 @@
 {
-  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/prop-types/index.js?commonjs-es-import": [],
-  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/prop-types/index.js?commonjs-module": [],
-  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/react-dom/cjs/react-dom.production.min.js?commonjs-exports": [],
+  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/prop-types/index.js?commonjs-es-import": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/prop-types/index.js?commonjs-module": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/react-dom/cjs/react-dom.production.min.js?commonjs-exports": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
   "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/react-dom/client.js?commonjs-es-import": [
     "/assets/client-DP3l4vRH.js"
   ],
   "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/react-dom/client.js?commonjs-exports": [
     "/assets/client-DP3l4vRH.js"
   ],
-  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/react-dom/index.js?commonjs-es-import": [],
-  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/react-dom/index.js?commonjs-module": [],
-  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/react/cjs/react-jsx-runtime.production.min.js?commonjs-exports": [],
-  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/react/cjs/react.production.min.js?commonjs-exports": [],
-  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/react/index.js?commonjs-es-import": [],
-  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/react/index.js?commonjs-module": [],
-  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/react/jsx-runtime.js?commonjs-es-import": [],
-  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/react/jsx-runtime.js?commonjs-module": [],
-  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/scheduler/cjs/scheduler.production.min.js?commonjs-exports": [],
-  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/scheduler/index.js?commonjs-module": [],
-  "\u0000commonjsHelpers.js": [],
-  "\u0000vite/modulepreload-polyfill.js": [],
-  "\u0000vite/preload-helper.js": [],
-  "index.html": [],
-  "node_modules/prop-types/factoryWithThrowingShims.js": [],
-  "node_modules/prop-types/index.js": [],
-  "node_modules/prop-types/lib/ReactPropTypesSecret.js": [],
-  "node_modules/react-dom/cjs/react-dom.production.min.js": [],
+  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/react-dom/index.js?commonjs-es-import": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/react-dom/index.js?commonjs-module": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/react/cjs/react-jsx-runtime.production.min.js?commonjs-exports": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/react/cjs/react.production.min.js?commonjs-exports": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/react/index.js?commonjs-es-import": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/react/index.js?commonjs-module": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/react/jsx-runtime.js?commonjs-es-import": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/react/jsx-runtime.js?commonjs-module": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/scheduler/cjs/scheduler.production.min.js?commonjs-exports": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "\u0000/Users/synasapmob/Documents/personal/synasapmob.github.io/node_modules/scheduler/index.js?commonjs-module": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "\u0000commonjsHelpers.js": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "\u0000vite/modulepreload-polyfill.js": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "\u0000vite/preload-helper.js": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "index.html": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "node_modules/prop-types/factoryWithThrowingShims.js": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "node_modules/prop-types/index.js": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "node_modules/prop-types/lib/ReactPropTypesSecret.js": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "node_modules/react-dom/cjs/react-dom.production.min.js": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
   "node_modules/react-dom/client.js": [
     "/assets/client-DP3l4vRH.js"
   ],
-  "node_modules/react-dom/index.js": [],
-  "node_modules/react-helmet-async/lib/index.module.js": [],
-  "node_modules/react/cjs/react-jsx-runtime.production.min.js": [],
-  "node_modules/react/cjs/react.production.min.js": [],
-  "node_modules/react/index.js": [],
-  "node_modules/react/jsx-runtime.js": [],
-  "node_modules/scheduler/cjs/scheduler.production.min.js": [],
-  "node_modules/scheduler/index.js": [],
-  "node_modules/vite-react-ssg/dist/client/single-page.mjs": [],
-  "node_modules/vite-react-ssg/dist/shared/vite-react-ssg.BxjO14Et.mjs": [],
-  "node_modules/vite-react-ssg/dist/shared/vite-react-ssg.C6pK7rvr.mjs": [],
-  "public/css/index.css": [],
-  "src/index.tsx": []
+  "node_modules/react-dom/index.js": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "node_modules/react-helmet-async/lib/index.module.js": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "node_modules/react/cjs/react-jsx-runtime.production.min.js": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "node_modules/react/cjs/react.production.min.js": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "node_modules/react/index.js": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "node_modules/react/jsx-runtime.js": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "node_modules/scheduler/cjs/scheduler.production.min.js": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "node_modules/scheduler/index.js": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "node_modules/vite-react-ssg/dist/client/single-page.mjs": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "node_modules/vite-react-ssg/dist/shared/vite-react-ssg.BxjO14Et.mjs": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "node_modules/vite-react-ssg/dist/shared/vite-react-ssg.C6pK7rvr.mjs": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "public/css/index.css": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ],
+  "src/index.tsx": [
+    "/assets/favicon-fANlyB8T.ico",
+    "/assets/logo192-Cw5HMvxU.png",
+    "/assets/manifest-DaXQ4ovf.json"
+  ]
 }
